@@ -1,0 +1,29 @@
+_repo: Woodrow-Wilson-s-Administration-and-Achievements_29850
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Bryan, James William
+    gutenberg_agent_id: '34214'
+    url: http://www.gutenberg.org/2009/agents/34214
+  - agent_name: Lord, Frank B.
+    gutenberg_agent_id: '34213'
+    url: http://www.gutenberg.org/2009/agents/34213
+description: ''
+gutenberg_issued: '2009-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29850'
+  lccn: '21012355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wilson, Woodrow, 1856-1924'
+- !lcc 'E740'
+- !lcsh 'United States -- Politics and government -- 1913-1921'
+title: Woodrow Wilson's Administration and Achievements
+url: http://www.gutenberg.org/ebooks/29850
